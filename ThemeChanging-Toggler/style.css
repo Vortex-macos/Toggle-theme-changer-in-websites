@@ -1,0 +1,16 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+#modeImg {
+    height: 30px;
+    border-radius: 100%;
+}
+
+#mode {
+    padding: 0px;
+    border: 0px;
+    border-radius: 100%;
+}
