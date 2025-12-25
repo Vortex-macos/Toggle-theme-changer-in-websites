@@ -7,10 +7,22 @@ div {
 #modeImg {
     height: 30px;
     border-radius: 100%;
+    background-color: black;
 }
 
 #mode {
     padding: 0px;
     border: 0px;
     border-radius: 100%;
+    background-color: black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
 }
